@@ -15,7 +15,7 @@ defaults:
 
 jobs:
   build:
-    runs-on: ubutun-latest
+    runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v2
